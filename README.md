@@ -15,6 +15,9 @@
 - Python
 - Bash
 - Java
+- Html, CSS
+- Dart
+- Flutter
 
 ## Projects
 
