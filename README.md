@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Pritom Kumar Paul
 
-<!--
-**Pritom-Kumar-Paul/Pritom-kumar-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 iOS Developer | Swift & SwiftUI Enthusiast
 
-Here are some ideas to get you started:
+## About Me
+- 📍 Bangladesh
+- 🎓 B.Sc in Computer Science & Engineering
+- 🎯 Learning & Sharing SwiftUI Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Swift, SwiftUI, Xcode
+- Git, GitHub
+- UI/UX Design
+- C, C++
+- Python
+- Bash
+- Java
+
+## Projects
+
+- [RockPaperScissors](https://github.com/Pritom-Kumar-Paul/Rock_Paper_scissors) - SwiftUI game
+
+## Contact
+- ✉️ Email: ppritom5@gmail.com
